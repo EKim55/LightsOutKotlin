@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LightsOut</string>
+    <string name="beginning_text">Make the buttons match</string>
+    <string name="Default_Light">0</string>
+    <string name="new_game">New Game</string>
+    <string name="won_message">You won!</string>
+</resources>
